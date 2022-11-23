@@ -1,0 +1,19 @@
+body{
+    background-image: azure;
+}
+
+h2#second{
+    color:black ;width: 150px; background-color:darkorchid ;border:solid 4px red
+}
+
+h2{
+    color:darkblue ;width: 150px; background-color:aqua;border:solid 4px black
+}
+
+h3{
+    color:black ;background-color:blueviolet;width:150px;border:solid 4px cyan
+}
+
+h3#second{
+    color:magenta ; background-color: black;width: 150px; border:solid 4px cyan
+}
